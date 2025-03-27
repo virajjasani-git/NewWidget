@@ -1,0 +1,22 @@
+{
+  "protocol": "3DXContent",
+  "version": "2.1",
+  "source": "ENOPSTR_AP",
+  "widgetId": "preview-75e106",
+  "data": {
+    "items": [
+      {
+        "envId": "R1132102669609",
+        "serviceId": "3DSpace",
+        "contextId": "ctx::VPLMProjectLeader.Company Name.GEHC",
+        "objectId": "196802D3B413310067E529B4000002C9",
+        "objectType": "VPMReference",
+        "objectTaxonomies": ["VPMReference"],
+        "displayName": "vj-001",
+        "displayType": "Physical Product",
+        "path": [{ "resourceid": "196802D3B413310067E529B4000002C9", "type": "VPMReference", "i3dx": "" }],
+        "i3dx": ""
+      }
+    ]
+  }
+}

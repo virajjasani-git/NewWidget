@@ -1,0 +1,57 @@
+{
+  "member": [
+    {
+      "owner": "virajjasani",
+      "created": "2025-03-27T10:34:34Z",
+      "title": "vj-001",
+      "type": "VPMReference",
+      "cestamp": "196802D3B413310067E529BA00003522",
+      "revision": "A",
+      "organization": "Company Name",
+      "name": "prd-R1132102669609-00001004",
+      "modified": "2025-03-27T10:34:34Z",
+      "id": "196802D3B413310067E529B4000002C9",
+      "state": "IN_WORK",
+      "collabspace": "GEHC"
+    },
+    {
+      "owner": "virajjasani",
+      "created": "2025-03-27T10:34:47Z",
+      "title": "vj-ch-001",
+      "type": "VPMReference",
+      "cestamp": "196802D3B413310067E529C70000352E",
+      "revision": "A",
+      "organization": "Company Name",
+      "name": "prd-R1132102669609-00001005",
+      "modified": "2025-03-27T10:34:47Z",
+      "id": "196802D3B413310067E529BF000002D3",
+      "state": "IN_WORK",
+      "collabspace": "GEHC"
+    },
+    {
+      "created": "2025-03-27T10:34:47Z",
+      "name": "vj-ch-001.1",
+      "modified": "2025-03-27T10:34:47Z",
+      "id": "196802D3B413310067E529C7000002DD",
+      "type": "VPMInstance",
+      "cestamp": "196802D3B413310067E529C70000352E"
+    },
+    {
+      "Path": [
+        "196802D3B413310067E529B4000002C9",
+        "196802D3B413310067E529C7000002DD",
+        "196802D3B413310067E529BF000002D3"
+      ]
+    }
+  ],
+  "totalItems": 4,
+  "nlsLabel": {
+    "id": "Id",
+    "type": "Type",
+    "modified": "Modification Date",
+    "created": "Creation Date",
+    "revision": "Revision",
+    "state": "State",
+    "owner": "Owner"
+  }
+}
